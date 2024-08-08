@@ -1,0 +1,75 @@
+[
+  {
+    "id": "1",
+    "name": "Blue Heights",
+    "price": "2.5",
+    "priceDenomination": "Cr",
+    "description": "Lorem Ipsum Dollar dummy",
+    "averageRating": "3",
+    "location": { "id" : "1",
+      "address": "Lorem Ipsum Dollar"
+    },
+    "images": [
+      { "id": "1",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      },
+      { "id": "2",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      },
+      { "id": "3",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "name": "Sky Heights",
+    "price": "2.0",
+    "priceDenomination": "Cr",
+    "description": "Lorem Ipsum Dollar dummy",
+    "averageRating": "4",
+    "location": { "id" : "2",
+      "address": "Lorem Ipsum Dollar"
+    },
+    "images": [
+      { "id": "4",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      },
+      { "id": "5",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      },
+      { "id": "6",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "name": "Lake View",
+    "price": "1.0",
+    "priceDenomination": "Cr",
+    "description": "Lorem Ipsum Dollar dummy",
+    "averageRating": "4",
+    "location": { "id" : "3",
+      "address": "Lorem Ipsum Dollar"
+    },
+    "images": [
+      { "id": "7",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      },
+      { "id": "8",
+        "imageUrl": "https://xyz-dummy-non-existing-url.com",
+        "size": "10"
+      }
+    ]
+  }
+]
