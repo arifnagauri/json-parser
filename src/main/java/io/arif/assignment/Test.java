@@ -12,12 +12,17 @@ import java.util.List;
 
 public class Test {
 
+    public static void main(String[] args) {
+
+        parseJson();
+
+    }
+
     /**
      * I have chosen the {@link Property} entity such that all common use cases are covered
      */
-    public static void main(String[] args) {
-
-        // test json data for Property entity...
+    private static void parseJson() {
+        // test json data for a single Property entity...
         String jsonString = """ 
                     {
                         "id": "1",
